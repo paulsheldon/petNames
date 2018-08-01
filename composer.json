@@ -1,0 +1,18 @@
+{
+  "name": "utrakdata/pet-names",
+  "type": "library",
+  "description": "utrakdata Json Dataset - Pet Names (10000+)",
+  "keywords": [
+    "json"
+  ],
+  "homepage": "https://bitbucket.org/teamutrak/petnames",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Paul Sheldon",
+      "email": "paulsheldon1966@gmail.com",
+      "role": "Developer"
+    }
+  ]
+  }
+}
