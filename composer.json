@@ -1,11 +1,11 @@
 {
-  "name": "utrakdata/pet-names",
+  "name": "utrakData/pet-names",
   "type": "library",
   "description": "utrakdata Json Dataset - Pet Names (10000+)",
   "keywords": [
     "json"
   ],
-  "homepage": "https://bitbucket.org/teamutrak/petnames",
+  "homepage": "https://github.com/paulsheldon/petNames",
   "license": "MIT",
   "authors": [
     {
