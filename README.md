@@ -22,7 +22,7 @@ $ composer require utrakdata/pet-names
 
 ### Submitting bugs and feature requests
 
-Bugs and feature request are tracked on [Bitbucket](https://bitbucket.org/teamutrak/petnames/issues?status=new&status=open)
+Bugs and feature request are tracked on [GitHub](https://github.com/paulsheldon/petNames/issues)
 
 
 ### Author
